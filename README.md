@@ -3,4 +3,4 @@ Summary: Numerical solution to a Fokker-Planck equation using the Crank-Nicholso
 
 This repository is a part of my bachelor's thesis in Physics. The FPLitio.py file is the Python script that solves the Fokker-Planck equation, which simulates a Lithium-6 atom being cooled from 1 miliKelvin to 140 microKelvin in a magneto-optical trap. The CuPy library is used to accelerate calculations using the GPU.
 
-The Videos folder include a GIF file and a MP4 file. These two files illustrate the evolution of the amotic distribution function along time.
+The Videos folder include a GIF file and a MP4 file. These two files illustrate the evolution of the atomiic distribution function along time.
